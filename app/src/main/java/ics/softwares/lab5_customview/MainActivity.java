@@ -13,7 +13,7 @@ import android.widget.LinearLayout;
 
 public class MainActivity extends AppCompatActivity {
     private int value = 0;
-    private Button increment, startActivity;  // start 
+    private Button increment, startActivity;  // start
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
